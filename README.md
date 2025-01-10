@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ipsita675
-- 🌱 I’m currently learning Python and DSA
+- 🌱 I’m currently learning Python , C++ and DSA
 - 😄 Pronouns: she/her
 
 
